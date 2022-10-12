@@ -32,7 +32,7 @@ The Udacity Postgres workspace is a real instance of Postgres that behaves exact
 
 (1) Report for the executive team
 
-    project-deforestation-exploration-solution-Matthsworld.pdf 
+    Project - Deforestation Exploration .pdf
 
 (2) SQL Queries 
 
