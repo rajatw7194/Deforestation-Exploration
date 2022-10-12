@@ -36,7 +36,7 @@ The Udacity Postgres workspace is a real instance of Postgres that behaves exact
 
 (2) SQL Queries 
 
-    ProjectDeforestationExplorationSQL_Queries.pdf
+    Project - Deforestation Exploration .pdf
     deforestation.sql
     
 (3) Original Data:    
@@ -48,7 +48,6 @@ The Udacity Postgres workspace is a real instance of Postgres that behaves exact
 (4) Results from Queries 
 
     forestation.csv     ( combination of the 3 original data files)
-    change_forestArea_sqkm.csv  
     
 ## Data Source:
 
